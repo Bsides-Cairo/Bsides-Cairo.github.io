@@ -19,7 +19,9 @@ Welcome to the CFP of the 2022 edition of Security BSides Cairo. BSides Cairo wi
 
 We loved the event format of BSides Zurich, where, after each talks session, speakers move to separate rooms where attendees who are interested in their talks can join them and engage in active discussions along with snacks and coffee. And this year we give all attendees chance to ask and engage with speakers as stage discussions at the same hall.
 
-<br>**So, we have set up some side-discussion tables where speakers and attendees can continue chatting about the talk’s topic in a more easy way.**
+
+
+**So, we have set up some side-discussion tables where speakers and attendees can continue chatting about the talk’s topic in a more easy way.**
 
 <br>
 
@@ -66,7 +68,9 @@ We appreciate BSides London success story for Rookie Track. The purpose of the "
 After the CFP deadline, our review board have 1 month to look over all submissions and give a score to each proposal. A rejection and an acceptance lists will be built based on the given scores. 
 The proposals with the highest score will move to the first batch of acceptance notice and strong rejections will be immediately sent out too. 
 
-<br>The board allows 1 week for the accepted proposals' speakers to respond. If the accepted speaker doesn't respond, doesn't want to or can't attend anymore, the board will move on with the next highest scored proposals in the acceptance list. 
+
+
+The board allows 1 week for the accepted proposals' speakers to respond. If the accepted speaker doesn't respond, doesn't want to or can't attend anymore, the board will move on with the next highest scored proposals in the acceptance list. 
 Once the conference program is full, the board starts to provide feedback for the remaining submissions. We hope to manage notifying all the confirmed speakers at least 2 months before the conference date. 
 **The final agenda and talks and workshops abstracts will be out by May 1, 2022!**
 
