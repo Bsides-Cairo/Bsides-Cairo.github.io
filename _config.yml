@@ -23,10 +23,10 @@ siteVerification: "b9imDOrFawXaBXCC4r3uJDdswSYcalD-wWpMYhFq-no"
 # Organizer Info
 organizerName: "BSides Cairo"
 organizerAlternateName: "BSides Cairo"
-organizerDescription: "Open and volunteer geek communities who create exciting projects and share experience about Google technology with passion."
+organizerDescription: "BSides Cairo is an information security conference!"
 organizerEmail: "bsidescairo@gmail.com"
 organizerLogo: "/img/seo/organizer-logo.png"
-organizerLink: "http://lviv.gdg.org.ua/"
+organizerLink: "https://twitter.com/bsidescairo"
 
 # Head
 metaKeywords: "event, cybersecurity, bsides, cairo, programming, hacking, malwares, blue team, red team"
@@ -61,7 +61,7 @@ eventDate: "June, 2022"
 typeoutTextValues: '"", "BSides Cairo 2022","Awakening The Hacker Pharaoh!"'
 typeoutFallback: "Season"
 heroButtons:
- - {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
+ - {link: "https://docs.google.com/forms/d/e/1FAIpQLSfJ6eyQrZJvRxXRdpYjTdckf9hY-wKVzLwEoAswxNbI1pCUFg/viewform", text: "Become a speaker"}
  - {permalink: "/#tickets", text: "Buy tickets"}
 
 # About Block
