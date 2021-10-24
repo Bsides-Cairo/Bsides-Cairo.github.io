@@ -1,26 +1,32 @@
 ---
 layout: post
-title:  "Call for Papers"
+title:  "Call for Papers is now open!"
 date:   2021-11-01 17:48:00
 isStaticPost: false
 ---
-BSides Cairo will be held 24-25th of June in the ancient city of Cairo. If you want to be part of this great event as a speaker you knocked at the correct door.
-
-
+Welcome to the CFP of the 2022 edition of Security BSides Cairo. BSides Cairo will be held 24-25th of June in the ancient city of Cairo. The 2022 edition will held <u>virtually</u> due to COVID-19 status in Cairo, Egypt.
 
 #### Your hacker talk can be as one of the following formats:
 
--  light talk: **15 min**
--  Short talk: **30 min**
--  Long talk: **45 min**
--  Customized talk.
-
+-  Short talk: **20 min** + (5 to 10 min) for Q&As.
+-  Long talk: **40 min** + (5 to 10 min) for Q&As.
+-  Technical Workshop: **90 minutes**.
+-  Customized talk of your choice.
 
 <br>
+
 ##### Stage discussions:
 
 We loved the event format of BSides Zurich, where, after each talks session, speakers move to separate rooms where attendees who are interested in their talks can join them and engage in active discussions along with snacks and coffee. And this year we give all attendees chance to ask and engage with speakers as stage discussions at the same hall.
-**So, we have setted up some side-discussion tables where speakers and attendees can continue chatting about the talk’s topic in a more easy way.**
+**So, we have set up some side-discussion tables where speakers and attendees can continue chatting about the talk’s topic in a more easy way.**
+
+
+
+##### Your talk will NOT be picked IF:
+- It’s a sale pitch or review of a single product.
+- We cannot adequate assess your submission.
+
+Submissions will be reviewed by our CFP Review Board and will be chosen on a "number of votes" basis. <u>The talk and slides must be in English.</u>
 
 
 
@@ -56,10 +62,11 @@ We appreciate BSides London success story for Rookie Track. The purpose of the "
 
 #### Review Process:
 
-After the CFP deadline, our review board have 1 month to look over all submissions and give a score to each proposal. A rejection and an acceptance lists will be built based on the given scores.
-The proposals with the highest score will move to the first batch of acceptance notice and strong rejections will be immediately sent out too.
-In the next few weeks the board will start contacting the authors with the highest scores to confirm their proposals acceptance and start filling the conference program. If the accepted speaker doesn't respond, doesn't want to or can't attend anymore, the board will move on with the next highest scored proposals in the acceptance list.
-Once the conference program is full, the board starts to provide feedback for the remaining submissions. We hope to manage notifying all the confirmed speakers at least 15 days before the conference date.
+After the CFP deadline, our review board have 1 month to look over all submissions and give a score to each proposal. A rejection and an acceptance lists will be built based on the given scores. 
+The proposals with the highest score will move to the first batch of acceptance notice and strong rejections will be immediately sent out too. 
+The board allows 1 week for the accepted proposals' speakers to respond. If the accepted speaker doesn't respond, doesn't want to or can't attend anymore, the board will move on with the next highest scored proposals in the acceptance list. 
+Once the conference program is full, the board starts to provide feedback for the remaining submissions. We hope to manage notifying all the confirmed speakers at least 2 months before the conference date. 
+**The final agenda and talks and workshops abstracts will be out by May 1, 2022!**
 
 
 
@@ -69,14 +76,15 @@ If you have any doubt or question about the CFP, please reach out to us via emai
 
 #### Important Dates
 
-- Call for papers opens: today, 1st of November 2021.
-- Call for papers will close: 15th of February 2022.
-- Accepted speakers will be notified: 15th of March 2022.
-- BSides Cairo 2022 program will be out for public: 15th of June 2022.
+- Talks/Workshops submissions due: Sunday, February 13, 2022, 11:59 PM EET.
+- Early feedback notification: Sunday, March 13, 2022.
+- Author responses due: Sunday, March 20, 2022.
+- Final program due: Sunday, May 1, 2022.
+- Conference: Friday & Saturday, June 24 & 25, 2022.
 
 
 
-#### Please submit your proposals [here]().
+#### Please submit your proposals [here](https://docs.google.com/forms/d/e/1FAIpQLSfJ6eyQrZJvRxXRdpYjTdckf9hY-wKVzLwEoAswxNbI1pCUFg/viewform).
 
 
 
