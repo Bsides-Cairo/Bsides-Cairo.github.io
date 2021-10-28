@@ -57,7 +57,7 @@ rightNavigationButtons:
 # Hero Block
 heroImage: "hero.jpg"
 heroTitle: "<typeout>"
-eventDate: "June, 2022"
+eventDate: "24-25th of June, 2022"
 typeoutTextValues: '"", "BSides Cairo 2022","Awakening The Hacker Pharaoh!"'
 typeoutFallback: "Season"
 heroButtons:
