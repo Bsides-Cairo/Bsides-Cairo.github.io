@@ -45,7 +45,7 @@ navigationLinks:
  - {permalink: "/", text: "Home"}
  - {permalink: "/blog/", text: "News"}
  #- {permalink: "/schedule/", text: "Schedule"}
- - {permalink: "/speakers/", text: "Speakers Archive"}
+ #- {permalink: "/speakers/", text: "Speakers Archive"}
  - {permalink: "/team/", text: "Team"}
  #- {permalink: "/logistics/", text: "workshops"}
  #- {permalink: "/hackathon/", text: "CTF"}
@@ -59,7 +59,7 @@ heroImage: "hero.jpg"
 heroTitle: "<typeout>"
 eventDate: "24-25th of June, 2022"
 typeoutTextValues: '"", "BSides Cairo 2022","Awakening The Hacker Pharaoh!"'
-typeoutFallback: "Season"
+typeoutFallback: "BSides Cairo 2022"
 heroButtons:
  - {link: "https://docs.google.com/forms/d/e/1FAIpQLSfJ6eyQrZJvRxXRdpYjTdckf9hY-wKVzLwEoAswxNbI1pCUFg/viewform", text: "Become a speaker"}
  - {permalink: "/#tickets", text: "Buy tickets"}
@@ -83,10 +83,10 @@ statisticBlock:
 latestNewsTitle: "Latest news"
 
 # Rockstar Speakers Block
-rockstarSpeakersImage: "rockstar-speakers.jpg"
-rockstarSpeakersCount: 5
-rockstarSpeakersTitle: "Previous Rockstar Speakers"
-rockstarSpeakersButtonText: "See all speakers"
+#rockstarSpeakersImage: "rockstar-speakers.jpg"
+#rockstarSpeakersCount: 5
+#rockstarSpeakersTitle: "Previous Rockstar Speakers"
+#rockstarSpeakersButtonText: "See all speakers"
 
 # Location Block
 locationBlockTitle: "Location"
