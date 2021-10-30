@@ -15,28 +15,11 @@ Welcome to the CFP of the 2022 edition of Security BSides Cairo. BSides Cairo wi
 
 <br>
 
-##### Stage discussions:
-
-We loved the event format of BSides Zurich, where, after each talks session, speakers move to separate rooms where attendees who are interested in their talks can join them and engage in active discussions along with snacks and coffee. And this year we give all attendees chance to ask and engage with speakers as stage discussions at the same hall.
-
-
-
-**So, we have set up some side-discussion tables where speakers and attendees can continue chatting about the talk’s topic in a more easy way.**
-
-<br>
-
 ##### Your talk will NOT be picked IF:
 - It’s a sale pitch or review of a single product.
 - We cannot adequate assess your submission.
 
 Submissions will be reviewed by our CFP Review Board and will be chosen on a "number of votes" basis. <u>The talk and slides must be in English.</u>
-
-
-
-#### Rookies & Mentors:
-
-We appreciate BSides London success story for Rookie Track. The purpose of the "Rookie Track" is to give those who have not previously given a talk the opportunity to do so, whether you are a student still at university, someone who has recently made the conversion to security or someone who has been in the industry for years.
-**So,we have 'Rookie Track' to give you an opportunity to be speaker and mentors will be available to help during submission processes.**
 
 
 
