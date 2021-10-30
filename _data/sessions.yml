@@ -32,13 +32,14 @@ In this session we will explore the journey of vulnerability research.Catching c
   video: "//www.youtube.com/embed/eg6QfMoAK0k"
 -
   id: 003
-  title: "Android L Animation"
-  description: "More than ever before, developing for global audience is a necessity than a luxury in today's world. Are you ready ... where to start? what does it entail? how do I do it? how to promote in local markets? This talk will address above questions for android, chrome and web developers. In our journey of the where, what and how, we will take an in-depth look at various internationalization and localization tools & strategies available to you."
+  title: "Point of Sales: Hacking and crime"
+  description: "This talk is about insecurity of POS and fraud that can you be on. From the classic skimmer, eavesdropping, modification, and installation of third-party software to hardware tampering POS.
+Talk also covers POS security features, main brands, cybercrime, methodology to POS tamper, impacted models, security countermeasures, PCI DSS, EMV, insecurity of EMV and NFC."
   subtype: presentation
-  speakers: [4]
+  speakers: [5]
   language: en
-  complexity: "Intermediate" 
-  presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
+  complexity: "Confidential" 
+  #presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
 -
   id: 004
   title: "Polymer: Interacting with Google Services using nothing but HTML"
