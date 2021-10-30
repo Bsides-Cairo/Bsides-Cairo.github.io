@@ -45,7 +45,7 @@ navigationLinks:
  - {permalink: "/", text: "Home"}
  - {permalink: "/blog/", text: "News"}
  #- {permalink: "/schedule/", text: "Schedule"}
- #- {permalink: "/speakers/", text: "Speakers Archive"}
+ - {permalink: "/speakers/", text: "Speakers Archive"}
  - {permalink: "/team/", text: "Team"}
  #- {permalink: "/logistics/", text: "workshops"}
  #- {permalink: "/hackathon/", text: "CTF"}
@@ -84,9 +84,9 @@ latestNewsTitle: "Latest news"
 
 # Rockstar Speakers Block
 rockstarSpeakersImage: "rockstar-speakers.jpg"
-rockstarSpeakersCount: 0
-rockstarSpeakersTitle: "Rockstar Speakers"
-rockstarSpeakersButtonText: "Speakers to be announced!"
+rockstarSpeakersCount: 5
+rockstarSpeakersTitle: "Previous Rockstar Speakers"
+rockstarSpeakersButtonText: "Show all previous speakers!"
 
 # Location Block
 locationBlockTitle: "Location"
