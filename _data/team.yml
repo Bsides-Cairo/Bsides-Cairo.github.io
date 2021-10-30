@@ -40,16 +40,16 @@
     - {name: "twitter", link: "https://twitter.com/eslamelhadedy50"}
     - {name: "site", link: "https://meetoor.com/home/profile/?p=eslamelhadedy"}
 - 
-  id: 4
-  name: "Dmytro"
-  surname: "Danylyk"
-  title: "Android Program Committee"
-  thumbnailUrl: DmytroDanylyk.jpg
-  subTeam: true
+  id: 3
+  name: "Aya adel"
+  surname: "Aya"
+  title: " "
+  thumbnailUrl: aya.jpg
+  team: true
   social: 
-    - {name: "google-plus", link: "https://plus.google.com/+DmytroDanylyk"}
-    - {name: "twitter", link: "https://twitter.com/dmytrodanylyk"}
-    - {name: "github", link: "https://github.com/dmytrodanylyk"}
+    
+    - {name: "twitter", link: "https://twitter.com/2ylul"}
+   
 - 
   id: 7
   name: "Valentyn"
