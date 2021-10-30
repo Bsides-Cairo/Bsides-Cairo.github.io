@@ -99,7 +99,7 @@ eventPostalCode: "79000"
 eventAddressCountry: "Egypt"
 eventStartTime: "2021-06-24T10:00"
 eventDoorTime: "09:00"
-eventEndTime: "2014-10-25T20:00"
+eventEndTime: "2021-10-25T20:00"
 eventPlaceCoordinates: "30.044658381882243, 31.238914227203516"
 mapCenterCoordinates: "30.044658381882243, 31.238914227203516"
 mapMobileCenterCoordinates: "30.044658381882243, 31.238914227203516"
@@ -111,7 +111,7 @@ venueSmallImage1: "venue_1.jpg"
 venueSmallImage2: "venue_2.jpg"
 venueSmallImage3: "venue_3.jpg"
 venueTitle: "The GrEEK Campus"
-venueFeatures: ["Huge conference hall with full of services campus","Seperate rooms for side discussions and workshops", "Cairo’s first technology and innovation park in the heart of Egypt."]
+venueFeatures: ["Huge conference hall with full of services campus.","Seperate rooms for side discussions and workshops.", "Cairo’s first technology and innovation park in the heart of Egypt."]
 
 # Tweets Feed Block
 tweetsFeedImage: "twitter-feed.jpg"
