@@ -21,14 +21,15 @@ This talk will review the ransomware threats, and discuss ways you can help defe
   video: "//www.youtube.com/embed/N8T1fCh6VgY"
 -
   id: 002
-  title: "Building Cloud-powered wearable Apps"
-  description: "I will speak and show how to:<br>- Respond to touch events in your views with touch feedback animations.<br>- Hide and show views with reveal effect animations.<br>- Switch between activities with custom activity transition animations.<br>- Create more natural animations with curved motion.<br>- Animate changes in one or more view properties with view state change animations.<br>- Create icon morphing transition"
+  title: "Brute-Forcing Mighty Dark Castles"
+  description: "The plague of computer security for the last 40 years has been the buffer overflow.This common vulnerability has given rise to a flood of different worms and exploits.
+In this session we will explore the journey of vulnerability research.Catching crashes with fuzzing, then exploring the interesting topic of brute-forcing and symbolic execution while defeating malwares like hidden logic bombs and nasty IDA graphs."
   subtype: presentation
-  speakers: [4, 5]
-  language: en
-  complexity: "Intermediate" 
-  presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
-  video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+  speakers: [4]
+  language: ar
+  #complexity: "Beginner" 
+  #presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
+  video: "//www.youtube.com/embed/eg6QfMoAK0k"
 -
   id: 003
   title: "Android L Animation"
