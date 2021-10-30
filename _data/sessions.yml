@@ -24,7 +24,7 @@ This talk will review the ransomware threats, and discuss ways you can help defe
   title: "Brute-Forcing Mighty Dark Castles"
   description: "The plague of computer security for the last 40 years has been the buffer overflow.This common vulnerability has given rise to a flood of different worms and exploits.
 In this session we will explore the journey of vulnerability research.Catching crashes with fuzzing, then exploring the interesting topic of brute-forcing and symbolic execution while defeating malwares like hidden logic bombs and nasty IDA graphs."
-  subtype: presentation
+  #subtype: presentation
   speakers: [4]
   language: ar
   #complexity: "Beginner" 
@@ -35,7 +35,7 @@ In this session we will explore the journey of vulnerability research.Catching c
   title: "Point of Sales: Hacking and crime"
   description: "This talk is about insecurity of POS and fraud that can you be on. From the classic skimmer, eavesdropping, modification, and installation of third-party software to hardware tampering POS.
 Talk also covers POS security features, main brands, cybercrime, methodology to POS tamper, impacted models, security countermeasures, PCI DSS, EMV, insecurity of EMV and NFC."
-  subtype: presentation
+  #subtype: presentation
   speakers: [5]
   language: en
   complexity: "Confidential" 
@@ -44,7 +44,7 @@ Talk also covers POS security features, main brands, cybercrime, methodology to 
   id: 004
   title: "Dive into the serverless security"
   description: "Modern web applications is switching to serverless functions because its simple and cost effective. But serverless functions has its own concerns and vulnerabilities. We will dive into vulnerabilities and attacks and we will review the best practice to deploy serverless functions,specially Aws Lambda function from the offensive and defensive sides."
-  subtype: keynote
+  #subtype: keynote
   speakers: [6]
   language: ar
   #complexity: "Beginner"
@@ -52,11 +52,16 @@ Talk also covers POS security features, main brands, cybercrime, methodology to 
   #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 -
   id: 005
-  title: "Test: Interacting with Google Services using nothing but HTML"
-  description: "Google has 1M APIs and services. Every API is different! Learn how you can interact with Google services without writing code! Designing your UI so it works across multiple screen sizes is no longer a nice to have, it is *the* way to build for the web. Using Polymer, we'll cover how to create robust, responsive elements that work across all platforms."
-  subtype: keynote
+  title: "Using Free and Open Source Deception Tools to Protect your Enterprise and Enrich Your CTI"
+  description: "Deception is an evolving effective tool that will improve detection and defense capabilities of an enterprise netwrok. It can be integrated into existing defenses to provide more visibility into the enterprise, share threat intelligence data and feed SIEM with high probability alerts.
+
+It is highly accurate and can provide deep insight into enterprise network to detect zero days and advanced APTs.
+
+talk will be an overview of deception technology will be presented in this talk and we will learn how to plan, build and deploy a basic deception framework using free and open source tools.
+"
+  #subtype: keynote
   speakers: [7]
-  language: en
-  complexity: "Expert"
-  presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
-  video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+  language: en, ar
+  #complexity: "Expert"
+  #presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
+  #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
