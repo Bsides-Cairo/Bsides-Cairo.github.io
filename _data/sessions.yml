@@ -65,3 +65,18 @@ talk will be an overview of deception technology will be presented in this talk 
   #complexity: "Expert"
   #presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
   #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+-
+  id: 006
+  title: "Using Free and Open Source Deception Tools to Protect your Enterprise and Enrich Your CTI"
+  description: "Deception is an evolving effective tool that will improve detection and defense capabilities of an enterprise netwrok. It can be integrated into existing defenses to provide more visibility into the enterprise, share threat intelligence data and feed SIEM with high probability alerts.
+
+It is highly accurate and can provide deep insight into enterprise network to detect zero days and advanced APTs.
+
+talk will be an overview of deception technology will be presented in this talk and we will learn how to plan, build and deploy a basic deception framework using free and open source tools.
+"
+  #subtype: keynote
+  speakers: [10]
+  language: en, ar
+  #complexity: "Expert"
+  #presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
+  #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
