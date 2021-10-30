@@ -30,7 +30,7 @@
   id: 2
   name: "Eslam Elhadedy"
   surname: "Elhadedy"
-  title: "Manager At Meetoor Company"
+  title: "Meetoor Company"
   thumbnailUrl: eslam.jpg
   team: true
   ribbon: 
@@ -43,7 +43,7 @@
   id: 3
   name: "Aya adel"
   surname: "Aya"
-  title: " "
+  title: "Cyber Security "
   thumbnailUrl: aya.jpg
   team: true
   social: 
@@ -51,12 +51,24 @@
     - {name: "twitter", link: "https://twitter.com/2ylul"}
    
 - 
-  id: 7
-  name: "Valentyn"
-  surname: "Shybanov"
-  title: "Web and Cloud Program Committee"
-  thumbnailUrl: ValentynShybanov.jpg
-  subTeam: true
+  id: 4
+  name: "Ahmad Mansour"
+  surname: "Mansour"
+  title: "graphic designer"
+  thumbnailUrl: mansour.jpg
+  team: true
   social: 
-    - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
-    - {name: "site", link: "http://olostan.name/"}
+    - {name: "site", link: "https://www.behance.net/ahmadkhalid"}
+    - {name: "site", link: "https://www.linkedin.com/in/ahmadkhaliid/"}
+    
+- 
+  id: 5
+  name: "Amr Mosa"
+  surname: "Mosa"
+  title: "Cyber Security"
+  thumbnailUrl: 2150.png
+  team: true
+  social: 
+    - {name: "twitter", link: "https://twitter.com/0x1411"}
+    - {name: "site", link: "https://www.linkedin.com/in/amr-mosa1/"}
+     
