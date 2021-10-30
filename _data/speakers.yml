@@ -28,7 +28,7 @@
   company: "Dreamlab Technologies"
   title: "Director of R&D LATAM"
   bio: "Fan of tech and cybersecurity, ISECOM OSSTMM instructor, trainer for security courses, speaker, researcher. Almost 10 years in the cybersecurity world. During recent years, he has specialized in payment systems EMV, NFC, POS, ATM. Currently, the director of R&D LATAM at Dreamlab Technologies."
-  thumbnailUrl: JavierPerez.png
+  thumbnailUrl: EslamS.jpg
   rockstar: true
   #ribbon: 
     #- {abbr: "GDE", title: "Google Developer Expert", url: "https://developers.google.com/experts/"}
@@ -38,18 +38,18 @@
     - {name: "twitter", link: "https://twitter.com/mu5ash1"}
 - 
   id: 6
-  name: "Roman"
-  surname: "Mazur"
-  company: "Stanfy, GDG Kyiv"
-  title: "Head of Android/Java Unit"
-  bio: "Roman started his way in Android 5 years ago and fall in love with this platform. Currently he is a head of Android unit in Stanfy LLC and a co-organizer of Kyiv Google Developers Group focusing on Android development. Roman is responsible for building a strong team of Android developers inside Stanfy as well as for organizing Android professionals community in Kyiv."
+  name: "Eslam"
+  surname: "Salem"
+  company: "Datadog, Inc."
+  title: "Application Security Engineer"
+  bio: "Developer, security evangelist and CEO & founder of Shieldfy. 13+ years of experience in web development. Worked as a developer, team leader, security consultant at many companies in Egypt, Qatar, UAE and Canada. Founded Shieldfy, a security platform for developers."
   thumbnailUrl: RomanMazur.jpg
   rockstar: true
-  ribbon:
-    - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
+  #ribbon:
+   # - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
   social: 
-    - {name: "google-plus", link: "https://plus.google.com/+RomanMazur/"}
-    - {name: "twitter", link: "http://twitter.com/roman_mazur"}
+    #- {name: "google-plus", link: "https://plus.google.com/+RomanMazur/"}
+    - {name: "twitter", link: "https://twitter.com/net_code"}
 - 
   id: 7
   name: "Valentyn"
