@@ -179,7 +179,8 @@ socialLinks:
  #- {link: "https://plus.google.com/b/102444623953913144164", icon: "google-plus"}
  - {link: "https://twitter.com/bsidescairo", icon: "twitter"}
  - {link: "https://www.facebook.com/BSCairo/", icon: "facebook"}
- #- {permalink: "/feed.xml", icon: "rss"}
+ - {permalink: "https://www.youtube.com/channel/UCA70YUdXBf_2PN36qkec9Zg", icon: "youtube"}
+ - {permalink: "https://www.linkedin.com/company/bsides-cairo/", icon: "linkedin"}
 footerBlocks:
  #-
   #title: "Links"
