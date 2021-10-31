@@ -42,7 +42,7 @@
 - 
   id: 3
   name: "Aya"
-  surname: "Aya"
+  surname: "Adel"
   #title: "Cyber Security "
   thumbnailUrl: aya.jpg
   team: true
@@ -71,4 +71,40 @@
   social: 
     - {name: "twitter", link: "https://twitter.com/0x1411"}
     - {name: "site", link: "https://www.linkedin.com/in/amr-mosa1/"}
+- 
+  id: 6
+  name: "Mai"
+  surname: "Tarek"
+  #title: "Cyber Security"
+  thumbnailUrl: mai.jpg
+  team: true
+  social: 
+    - {name: "linkedin", link: "https://www.linkedin.com/in/mai-tarek25/"}
+- 
+  id: 7
+  name: "Ramy"
+  surname: "Sherif"
+  #title: "Cyber Security"
+  thumbnailUrl: ramy.jpg
+  team: true
+  social: 
+    - {name: "linkedin", link: "https://www.linkedin.com/in/ramy-sherif-5923447a/"}        
+- 
+  id: 8
+  name: "Sharka"
+  surname: "Pekarova"
+  #title: "Cyber Security"
+  thumbnailUrl: sharka.jpg
+  team: true
+  social: 
+    - {name: "twitter", link: "https://twitter.com/___sh4rk___?s=21"}     
+- 
+  id: 9
+  name: "Mohammed"
+  surname: "Gipreel"
+  #title: "Cyber Security"
+  thumbnailUrl: gameel.jpg
+  team: true
+  social: 
+    - {name: "linkedin", link: "https://www.linkedin.com/in/mohammed-gipreel-aa8b27153/"}   
      
