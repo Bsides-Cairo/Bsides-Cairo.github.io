@@ -62,7 +62,7 @@ typeoutTextValues: '"", "BSides Cairo 2022","Awakening The Hacker Pharaoh!"'
 typeoutFallback: "BSides Cairo 2022"
 heroButtons:
  - {link: "https://docs.google.com/forms/d/e/1FAIpQLSfJ6eyQrZJvRxXRdpYjTdckf9hY-wKVzLwEoAswxNbI1pCUFg/viewform", text: "Become a speaker"}
- - {permalink: "/#tickets", text: "Get Access"}
+ - {permalink: "/#subscribe", text: "Get Access"}
 
 # About Block
 aboutTitle: "About BSides Cairo"
