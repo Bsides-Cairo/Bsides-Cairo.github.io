@@ -1,15 +1,4 @@
 -
-  id: 307
-  title: "Coffee Break"
-  place: "Hall"
-  service: true
-  description: "The best time to talk with speakers and attendees"
--
-  id: 503
-  title: "Lunch Break"
-  place: "Dining room"
-  service: true
--
   id: 001
   title: "Ransomware and Egypt: The Threat and How to Protect Your Organization"
   description: "In 2017 Egypt was one of the top countries affected by the WannaCry Ransomware, and, unfortunately, things have not gotten better. According to Trend Micro, Egypt accounts for more than a third of all ransomware attacks in North Africa. Egypt is an attractive target for ransomware cybercriminals because there are so many new business starting up, but they have limited budget for security.
@@ -158,4 +147,5 @@ In this talk, we will discuss & explain AI and how to integrate it with cyber se
   language: en
   #complexity: "Expert"
   #presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
-  #video: "//www.youtube.com/embed/dxYBAAe1I3I"          
+  #video: "//www.youtube.com/embed/dxYBAAe1I3I"
+-            
