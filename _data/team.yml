@@ -59,7 +59,7 @@
   team: true
   social: 
     - {name: "site", link: "https://www.behance.net/ahmadkhalid"}
-    - {name: "site", link: "https://www.linkedin.com/in/ahmadkhaliid/"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/ahmadkhaliid/"}
     
 - 
   id: 5
@@ -70,7 +70,7 @@
   team: true
   social: 
     - {name: "twitter", link: "https://twitter.com/0x1411"}
-    - {name: "site", link: "https://www.linkedin.com/in/amr-mosa1/"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/amr-mosa1/"}
 - 
   id: 6
   name: "Mai"
