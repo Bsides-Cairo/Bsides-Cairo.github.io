@@ -62,7 +62,7 @@ typeoutTextValues: '"", "BSides Cairo 2022","Awakening The Hacker Pharaoh!"'
 typeoutFallback: "BSides Cairo 2022"
 heroButtons:
  - {link: "https://docs.google.com/forms/d/e/1FAIpQLSfJ6eyQrZJvRxXRdpYjTdckf9hY-wKVzLwEoAswxNbI1pCUFg/viewform", text: "Become a speaker"}
- - {permalink: "/#tickets", text: "Buy tickets"}
+ - {permalink: "/#tickets", text: "Get Access"}
 
 # About Block
 aboutTitle: "About BSides Cairo"
@@ -129,7 +129,7 @@ subscribeImage: "subscribe.jpg"
 subscribeTitle: "Once Again, Together We Write History!"
 #subscribeAction: "https://gdg.us5.list-manage1.com/subscribe/post?u=9fc8aa205b0521b5f05fc8e1e&amp;id=ae0fb459fc"
 
-subscribeInfo: "Registration will be open soon. Number of tickets are limited. Stay tuned!"
+subscribeInfo: "This year's event is totally FREE. Registration will be open soon. Number of seats are limited. Stay tuned!"
 
 # Tickets Block
 #ticketsTitle: "Tickets Registration"
