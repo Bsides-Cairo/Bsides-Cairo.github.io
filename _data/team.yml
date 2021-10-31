@@ -2,7 +2,7 @@
   id: 0
   name: "Amgad"
   surname: "Magdy"
-  title: "Co-Founder"
+  #title: "Co-Founder"
   thumbnailUrl: amjad.jpg
   team: true
   ribbon: 
@@ -17,7 +17,7 @@
   id: 1
   name: "Nidal"
   surname: "Fikri"
-  title: "Malware Analyst"
+  #title: "Malware Analyst"
   thumbnailUrl: Nidal.jpg
   team: true
   ribbon: 
@@ -28,9 +28,9 @@
     - {name: "site", link: "https://cyber-anubis.github.io/aboutme/"}
 - 
   id: 2
-  name: "Eslam Elhadedy"
+  name: "Eslam"
   surname: "Elhadedy"
-  title: "Meetoor Company"
+  #title: "Meetoor Company"
   thumbnailUrl: eslam.jpg
   team: true
   ribbon: 
@@ -41,9 +41,9 @@
     - {name: "site", link: "https://meetoor.com/home/profile/?p=eslamelhadedy"}
 - 
   id: 3
-  name: "Aya adel"
+  name: "Aya"
   surname: "Aya"
-  title: "Cyber Security "
+  #title: "Cyber Security "
   thumbnailUrl: aya.jpg
   team: true
   social: 
@@ -52,9 +52,9 @@
    
 - 
   id: 4
-  name: "Ahmad Mansour"
+  name: "Ahmad"
   surname: "Mansour"
-  title: "graphic designer"
+  #title: "graphic designer"
   thumbnailUrl: mansour.jpg
   team: true
   social: 
@@ -63,9 +63,9 @@
     
 - 
   id: 5
-  name: "Amr Mosa"
+  name: "Amr"
   surname: "Mosa"
-  title: "Cyber Security"
+  #title: "Cyber Security"
   thumbnailUrl: 2150.png
   team: true
   social: 
