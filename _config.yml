@@ -129,7 +129,7 @@ subscribeImage: "subscribe.jpg"
 subscribeTitle: "Once Again, Together We Write History!"
 #subscribeAction: "https://gdg.us5.list-manage1.com/subscribe/post?u=9fc8aa205b0521b5f05fc8e1e&amp;id=ae0fb459fc"
 
-subscribeInfo: "This year's event is totally FREE. Registration will be open soon. Number of seats are limited. Stay tuned!"
+subscribeInfo: "This year's event is totally FREE. Registration will open soon. Number of seats are limited. Stay tuned!"
 
 # Tickets Block
 #ticketsTitle: "Tickets Registration"
@@ -258,7 +258,7 @@ directionDetailsTitle: "Get around Cairo"
 
 # Hackathon
 hackathonTitle: "Hackathon"
-enableHackathon: true
+enableHackathon: false
 
 # Hackathon About Block
 aboutHackathonTitle: "Meet our themes"
