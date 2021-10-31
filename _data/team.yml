@@ -94,7 +94,7 @@
   name: "Sharka"
   surname: "Pekarova"
   #title: "Cyber Security"
-  thumbnailUrl: sharka.jpg
+  thumbnailUrl: sharka.jpeg
   team: true
   social: 
     - {name: "twitter", link: "https://twitter.com/___sh4rk___?s=21"}     
