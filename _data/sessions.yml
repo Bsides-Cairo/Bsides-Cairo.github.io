@@ -112,15 +112,7 @@ In this talk, we will discuss & explain AI and how to integrate it with cyber se
   #complexity: "Expert"
   #presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
   video: "//www.youtube.com/embed/yqFWFRd9bCo"   
--
-  id: 012
-  title: "Insight Into TTPs Of A Middle Eastern Threat Actor"
-  #subtype: keynote
-  speakers: [14,15]
-  language: en
-  #complexity: "Expert"
-  #presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
-  video: "//www.youtube.com/embed/LscBz_PivBk"   
+- 
 -
   id: 013
   title: "Catch Me If You Can: The Art Of CTF"
