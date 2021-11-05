@@ -19,7 +19,7 @@ Welcome to the CFP of the 2022 edition of Security BSides Cairo. BSides Cairo wi
 - It’s a sale pitch or review of a single product.
 - We cannot adequate assess your submission.
 
-Submissions will be reviewed by our CFP Review Board and will be chosen on a "number of votes" basis. <u>The talk and slides must be in English.</u>
+Submissions will be reviewed by our CFP Review Board and will be chosen on a "number of votes" basis. <u>The submitted application and slides must be in English.</u> The talk can be in English or Arabic.
 
 
 
