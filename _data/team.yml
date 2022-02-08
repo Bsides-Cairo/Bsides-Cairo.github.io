@@ -107,4 +107,13 @@
   team: true
   social: 
     - {name: "linkedin", link: "https://www.linkedin.com/in/mohammed-gipreel-aa8b27153/"}   
-     
+ - 
+  id: 10
+  name: "Catherine"
+  surname: "Chapman"
+  #title: "Cyber Security"
+  thumbnailUrl: Chapman.jpg
+  team: true
+  social: 
+    - {name: "linkedin", link: "https://www.linkedin.com/in/cathapman"}   
+    
