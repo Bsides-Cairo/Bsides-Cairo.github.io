@@ -98,6 +98,15 @@
   team: true
   social: 
     - {name: "twitter", link: "https://twitter.com/___sh4rk___?s=21"}     
+ -
+  id: 9
+  name: "Mohammed"
+  surname: "Gipreel"
+  #title: "Cyber Security"
+  thumbnailUrl: gameel.jpg
+  team: true
+  social: 
+    - {name: "linkedin", link: "https://www.linkedin.com/in/mohammed-gipreel-aa8b27153/"}
  - 
   id: 10
   name: "Catherine"
@@ -106,5 +115,4 @@
   thumbnailUrl: Chapman.jpg
   team: true
   social: 
-    - {name: "linkedin", link: "https://www.linkedin.com/in/cathapman"}   
-    
+    - {name: "linkedin", link: "https://www.linkedin.com/in/cathapman"}
