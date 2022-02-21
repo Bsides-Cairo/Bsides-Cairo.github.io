@@ -1,7 +1,7 @@
 - 
   group: "Strategic Sponsors"
   elements: 
-    - {name: "Tines", description: "Automation platform for high-demand security teams.", link: "https://www.tines.com/", imageUrl: "tines.esp"}
+    - {name: "Tines", description: "Automation platform for high-demand security teams.", link: "https://www.tines.com/", imageUrl: "tines.svg"}
    #- {name: "GDG Lviv", description: "GDG Lviv - Open and volunteer geek community", link: "http://lviv.gdg.org.ua", imageUrl: "gdg-lviv.svg"}
 #- 
   #group: "With support of"
