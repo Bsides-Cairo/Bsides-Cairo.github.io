@@ -4,7 +4,7 @@
   description: "In 2017 Egypt was one of the top countries affected by the WannaCry Ransomware, and, unfortunately, things have not gotten better. According to Trend Micro, Egypt accounts for more than a third of all ransomware attacks in North Africa. Egypt is an attractive target for ransomware cybercriminals because there are so many new business starting up, but they have limited budget for security.
 This talk will review the ransomware threats, and discuss ways you can help defend your organization from ransomware, even on a tight budget. It will also provide an overview of resources you can use to better understand the threat and where to focus your limited security budget."
   subtype: KEYNOTE
-  speakers: [3]
+  speakers: [11]
   language: en
   #complexity: "Intermediate"
   video: "//www.youtube.com/embed/N8T1fCh6VgY"
@@ -14,7 +14,7 @@ This talk will review the ransomware threats, and discuss ways you can help defe
   description: "The plague of computer security for the last 40 years has been the buffer overflow.This common vulnerability has given rise to a flood of different worms and exploits.
 In this session we will explore the journey of vulnerability research.Catching crashes with fuzzing, then exploring the interesting topic of brute-forcing and symbolic execution while defeating malwares like hidden logic bombs and nasty IDA graphs."
   #subtype: presentation
-  speakers: [4]
+  speakers: [12]
   language: ar
   #complexity: "Beginner" 
   #presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
@@ -25,7 +25,7 @@ In this session we will explore the journey of vulnerability research.Catching c
   description: "This talk is about insecurity of POS and fraud that can you be on. From the classic skimmer, eavesdropping, modification, and installation of third-party software to hardware tampering POS.
 Talk also covers POS security features, main brands, cybercrime, methodology to POS tamper, impacted models, security countermeasures, PCI DSS, EMV, insecurity of EMV and NFC."
   #subtype: presentation
-  speakers: [5]
+  speakers: [13]
   language: en
   complexity: "Confidential" 
   #presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
@@ -34,7 +34,7 @@ Talk also covers POS security features, main brands, cybercrime, methodology to 
   title: "Dive into the serverless security"
   description: "Modern web applications is switching to serverless functions because its simple and cost effective. But serverless functions has its own concerns and vulnerabilities. We will dive into vulnerabilities and attacks and we will review the best practice to deploy serverless functions,specially Aws Lambda function from the offensive and defensive sides."
   #subtype: keynote
-  speakers: [6]
+  speakers: [14]
   language: ar
   #complexity: "Beginner"
   #presentation: "https://speakerdeck.com/gdglviv/mateusz-herych-guava-beyond-collections"
@@ -49,7 +49,7 @@ It is highly accurate and can provide deep insight into enterprise network to de
 talk will be an overview of deception technology will be presented in this talk and we will learn how to plan, build and deploy a basic deception framework using free and open source tools.
 "
   #subtype: keynote
-  speakers: [7]
+  speakers: [15]
   language: en, ar
   #complexity: "Expert"
   #presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
@@ -60,7 +60,7 @@ talk will be an overview of deception technology will be presented in this talk 
   description: "The ability to block advanced threats improves each year, but we face adversaries who are determined and creative, and their techniques evolve just as quickly. This raises a few questions: When prevention fails, what do we have left to protect our organizations? How can we discover gaps as fast as possible? Having techniques in play to detect and respond to ongoing attacks quickly is as important as prevention.
 Threat hunting is a critical discipline that more organizations are using to disrupt stealthy attacks before they become mega breaches. It is the active search for “unknown unknowns,” which describes new and novel attack behaviors that aren’t detected by current automated methods of prevention and detection. It is, by nature, a “hands-on-keyboard activity,” driven by humans. Just like hunting in nature, anyone can do it, but the right experience and tools can make you much more effective."
   #subtype: keynote
-  speakers: [8]
+  speakers: [16]
   language: ar
   #complexity: "Expert"
   #presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
@@ -71,7 +71,7 @@ Threat hunting is a critical discipline that more organizations are using to dis
   description: "AI is the simulation of human intelligence processes by machines, especially computer systems. These processes include learning, reasoning, and self-correction. Integrating it with cyber security is beneficial because it improves how security experts analyze, study, and understand cyber-crime.
 In this talk, we will discuss & explain AI and how to integrate it with cyber security to detect many types of attacks. The talk will cover many applications in cyber security in which we can apply AI to improve those applications. Finally, we will present a demo on how to build your development environment with some scripting examples."
   #subtype: keynote
-  speakers: [9]
+  speakers: [17]
   language: ar
   #complexity: "Expert"
   #presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
@@ -80,7 +80,7 @@ In this talk, we will discuss & explain AI and how to integrate it with cyber se
   id: 008
   title: "Detection at Scale"
   #subtype: keynote
-  speakers: [10,11]
+  speakers: [18,19]
   language: en
   #complexity: "Expert"
   #presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
@@ -89,7 +89,7 @@ In this talk, we will discuss & explain AI and how to integrate it with cyber se
   id: 009
   title: "Selected Short Stories on Supply Chain Attacks"
   #subtype: keynote
-  speakers: [11]
+  speakers: [19]
   language: en
   #complexity: "Expert"
   #presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
@@ -98,7 +98,7 @@ In this talk, we will discuss & explain AI and how to integrate it with cyber se
   id: 010
   title: "Mitigating New Entry Points To The Jewels"
   #subtype: keynote
-  speakers: [12]
+  speakers: [20]
   language: en
   #complexity: "Expert"
   #presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
@@ -107,7 +107,7 @@ In this talk, we will discuss & explain AI and how to integrate it with cyber se
   id: 011
   title: "MTechniques Of The Social Engineering Pirate Queen"
   #subtype: keynote
-  speakers: [13]
+  speakers: [21]
   language: en
   #complexity: "Expert"
   #presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
@@ -117,7 +117,7 @@ In this talk, we will discuss & explain AI and how to integrate it with cyber se
   id: 013
   title: "Catch Me If You Can: The Art Of CTF"
   #subtype: keynote
-  speakers: [16]
+  speakers: [24]
   language: en
   #complexity: "Expert"
   #presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
@@ -126,7 +126,7 @@ In this talk, we will discuss & explain AI and how to integrate it with cyber se
   id: 014
   title: "Insight Into TTPs Of A Middle Eastern Threat Actor"
   #subtype: keynote
-  speakers: [14,15]
+  speakers: [22,23]
   language: en
   #complexity: "Expert"
   #presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
@@ -135,9 +135,195 @@ In this talk, we will discuss & explain AI and how to integrate it with cyber se
   id: 015
   title: "Hacking Just By Browsing"
   #subtype: keynote
-  speakers: [17]
+  speakers: [25]
   language: en
   #complexity: "Expert"
   #presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
   #video: "//www.youtube.com/embed/dxYBAAe1I3I"
--            
+-
+  id: 016
+  title: "Opening Words"
+  #subtype: keynote
+  speakers: [12,30]
+  language: en
+  #complexity: "Expert"
+  #presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
+  #video: "//www.youtube.com/embed/dxYBAAe1I3I"
+-
+  id: 017
+  title: "A Users Guide to Physical Infiltrations"
+  #subtype: keynote
+  speakers: [1]
+  language: en
+  description: "This talk discusses a physical infiltration test step by step.
+It covers reconnaissance, research and practical preparation and gives advice on kit, pretexts and communication whilst on task, both as an individual tester as well as part of a crew.
+The talk also discusses some of the myths of social engineering and outlines the skills required to be a successful and professional practitioner."
+  #complexity: "Expert"
+  #presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
+  #video: "//www.youtube.com/embed/dxYBAAe1I3I"
+-
+  id: 018
+  title: "Bypassing ISP Censorship for 
+a Transparent Internet"
+  #subtype: keynote
+  speakers: [0]
+  language: en
+  description: "In recent times, internet censorship has increased throughout the world. With governments realising the potential of the internet in spreading information as well as misinformation.
+To curb or rather control this, governments around the globe have taken to censoring parts of the internet by directing major ISPs to block access to those websites.
+The ISPs around the globe have used different methods to block the access. Some resulting in DNS filtering to others doing SNI ( Server Name Information ) inspection.
+There have been ways to bypass these restrictions, like DoH ( DNS over HTTPS ) and eSNI ( encrypted SNI ), now ECH ( Encrypted Client Hello ), supported by TLS 1.3.
+To counter these, some authoritarian regimes ( like China ) have blocked eSNI traffic altogether, to be able to sniff the traffic and block the websites accordingly on their ‘Great Firewall’.
+I will be talking about how these different mechanisms of blocking user traffic works, by doing a live demo of packet analysis using wireshark."
+  #complexity: "Expert"
+  #presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
+  #video: "//www.youtube.com/embed/dxYBAAe1I3I"
+-
+  id: 019
+  title: "Learning Policy as Code
+ Without Loosing Your Mind"
+  #subtype: keynote
+  speakers: [2]
+  language: en
+  description: "If your Organization policies are still managed through GUI, we lose the benefits of audibility, repeatability, and testability of those policies such as access control, scan results evaluation, and other decision making procedures. Policy as code helps us manage policies in a declarative way and enforce them across your entire application and technology stack. If you wanted to learn about Policy as Code, and better yet get started with Policy as Code, join us in this talk where we teach you how to get started with Policy as Code through Open Policy Agent.
+
+Some of the areas we will cover in this talk include:
+1. The need for Policy as Code
+2. Exploring Open Policy Agent
+3. Understanding the constructs of a Declarative Policy Language
+4. Walkthrough of Implementation use cases from application and container orchestration perspective
+
+At the end of the session, you would gain a solid understanding  of:
+1. The basics of Policy as Code
+2. Introducing Policy as Code in your technology stack
+3. The application of Policies through the Rego language in Open Policy Agent"
+  #complexity: "Expert"
+  #presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
+  #video: "//www.youtube.com/embed/dxYBAAe1I3I"
+-
+  id: 020
+  title: "From SEH Overwrite with 
+Egg Hunter to Get a Shell"
+  #subtype: keynote
+  speakers: [3]
+  language: en
+  description: "In this talk we gonna learn what is SEH (Structured Exception Handler), what your function in the system, as well as your famous message 'program has encountered a problem and needs to close', and how and why sometimes in exploit development is necessary in memory stack, overwrite the SEH.
+We also gonna learn what is the function for exploitation technique called Egg Hunter, and when is necessary to make use of this technique.
+For end, we gonna learn create from zero an exploit, to exploit a Buffer Overflow vulnerability utilizing the technique SEH Overwrite with use of Egg Hunter, and we will looking for badchars to avoid errors in our shellcode, all this to get a reverse shell.
+"
+  #complexity: "Expert"
+  #presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
+  #video: "//www.youtube.com/embed/dxYBAAe1I3I"
+-
+  id: 021
+  title: "Your game is my game. Reverse me if you can!"
+  subtype: keynote
+  speakers: [5]
+  language: ar
+  description: "In 2021, the gaming industry generated $155 billion in revenue and by 2025, it is expected the industry will generate more than $260 billion in revenue. This makes it a lucrative target for cybercriminals.
+To protect their user and fair experience, game publishers and developers fight endlessly against cheats and use every trick to protect their games, clients, from tampering and reversing engineering.  It is a cat and mouse game.
+In this talk, we will explore the game cheating and anti-cheating techniques and tricks. How an attacker can get access to the game’s secrets and how security engineers fight and protect the game assets."
+  #complexity: "Expert"
+  #presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
+  #video: "//www.youtube.com/embed/dxYBAAe1I3I"
+-
+  id: 022
+  title: "Breaking logic, Creating CVEs"
+  #subtype: keynote
+  speakers: [4]
+  language: ar
+  description: "My talk is mainly for beginners who need to know more about the types of logic vulnerabilities and how to find and exploit these types of magic bugs. I’ll start by declaring the differences between logical and traditional bugs and why I’m looking for the logical ones first. 
+As we know, the logical bugs have a variety of types, and you can find and exploit them by using multiple techniques, all you need to do is to focus on multiple points, so I’ll try to create a creative mindset to understand the business of the target and how the bug will affect him to get the most benefit from it like chaining bugs to get the highest impact you can achieve. 
+Through the talk, I’ll get real-world scenarios of my logical findings to declare my words like Account takeover, Parameter tampering, Broken Access Control and more. Also, I’ll talk about 4 CVEs I assigned for the first time and declare how I managed to read internal bank documents, users’ transactions, companies deals, and more critical data by chaining and exploiting the vulnerable logic functions, parameters and endpoints.
+"
+  #complexity: "Expert"
+  #presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
+  #video: "//www.youtube.com/embed/dxYBAAe1I3I"
+-
+  id: 023
+  title: "Tines"
+  #subtype: keynote
+  #speakers: [25]
+  language: en
+  #complexity: "Expert"
+  #presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
+  #video: "//www.youtube.com/embed/dxYBAAe1I3I"
+-
+  id: 024
+  title: "The Next Generation of Malware Detection"
+  #subtype: keynote
+  speakers: [6,7]
+  language: ar
+  description: "The major problem with detection by rule-based patterns that it’s very tedious to write rules like YARA for detecting many variants of a malicious family and auto generation tools can result false positives also if we wrote rules for each sample we’d get a performance hit, so we’ve focused our research to take static detection into the next level by using machine learning and inspired by state-of-the-art approaches and we’ve made a proof of concept for our methodology."
+  #complexity: "Expert"
+  #presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
+  #video: "//www.youtube.com/embed/dxYBAAe1I3I"
+-
+  id: 025
+  title: "Zero Trust"
+  description: "Zero trust is a cybersecurity paradigm focused on resource protection and the premise that trust is never granted implicitly but must be continually evaluated; in this talk, we will explore the history of ZT, its fundamental concepts, the interpretation of the key industry leaders, and how you might want to start adopting it in your own environment."
+  #subtype: keynote
+  speakers: [10,26]
+  language: ar
+  #complexity: "Expert"
+  #presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
+  #video: "//www.youtube.com/embed/dxYBAAe1I3I"
+-
+  id: 026
+  title: "MITRE ATT&CK (Engage Panel)"
+  #subtype: keynote
+  speakers: [8,9,31]
+  language: en
+  description: "This panel will explore the MITRE ATT&CK and Engage frameworks and how these two frameworks can be operationalized together within your organization. In the Art of War, Sun Tzu said “Know thyself, know thy enemy. A thousand battles, a thousand victories.“. Using MITRE Engage and MITRE ATT&CK, this panel will investigate how to combine cyber threat intelligence and threat modeling to inform and drive your use of adversary engagement. Along the way we will discuss real operations MITRE has conducted and reflect on where we succeeded and where we failed. We hope that listeners walk away with a better understanding of both ATT&CK and Engage and how to operationalize these frameworks within your organization."
+  #complexity: "Expert"
+  #presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
+  #video: "//www.youtube.com/embed/dxYBAAe1I3I"
+-
+  id: 028
+  title: "Closing Words (First Day)"
+  #subtype: keynote
+  speakers: [30]
+  language: en
+  #complexity: "Expert"
+  #presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
+  #video: "//www.youtube.com/embed/dxYBAAe1I3I"
+-
+  id: 029
+  title: "Closing Words"
+  #subtype: keynote
+  speakers: [29,30]
+  language: en
+  #complexity: "Expert"
+  #presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
+  #video: "//www.youtube.com/embed/dxYBAAe1I3I"
+-
+  id: 030
+  title: "Conference Sponsor - Tines"
+  #subtype: keynote
+  speakers: []
+  language: en
+  #complexity: "Expert"
+  #presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
+  #video: "//www.youtube.com/embed/dxYBAAe1I3I"
+-
+  id: 307
+  title: "Break"
+  #place: "Hall"
+  service: true
+  #description: "The best time to talk with speakers and attendees"
+-
+  id: 503
+  title: "Lunch Break"
+  #place: "Dining room"
+  service: true
+  #description: "The best time to talk with speakers and attendees"
+-
+  id: 039
+  title: "Opening Words (Second Day)"
+  #subtype: keynote
+  speakers: [30]
+  language: en
+  #complexity: "Expert"
+  #presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
+  #video: "//www.youtube.com/embed/dxYBAAe1I3I"
+-
+
