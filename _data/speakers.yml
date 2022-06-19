@@ -219,7 +219,7 @@ an Indonesian decacorn super app. I teach CyberSecurity @HackingSimplified and b
   surname: "Fikri"
   company: "BSides Cairo"
   title: "Organizer"
-  #bio: "I’ve published multiple Malware Analysis reports at Malpedia. Ex-Intern at Trend Micro learning about its various products and the Cloud i.e. AWS. Learning how computers are designed & how they function is my ultimate hobby. I can't stop myself from stalking the internals & I love to REVERSE them. ACM problem solver, competitions player, public speaker & student activity leader."
+  bio: "Hunting Malwares for Hatching Triage."
   thumbnailUrl: Nidal2.jpg
   rockstar: false
   social: 
