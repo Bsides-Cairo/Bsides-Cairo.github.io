@@ -177,11 +177,9 @@ Strongly skilled and dedicated ITIL Expert with a superior work ethic and client
   id: 0
   name: "Aseem"
   surname: "Shrey"
-  company: "GoTo"
-  title: "Senior Information Security Engineer"
-  bio: "Senior Information Security Engineer at GoTo ( GoJek + Tokopedia Merger ) , 
-an Indonesian decacorn super app. I teach CyberSecurity @HackingSimplified and blog about some of my security findings on my website,
- aseemshrey.in . Acknowledged for securing the government of India’s Digilocker, various MNC’s like Sony, IBM, GM and many Indian companies and startups. All India 1st in Nullcon CTF 2018 . Interested in web app exploitation especially logical bugs and reverse engineering. CTF player with NULLKrypt3rs"
+  company: "Rippling"
+  title: "Security Engineer"
+  bio: "Security Engineer at Rippling ( A US based startup ). I teach CyberSecurity @HackingSimplified and blog about some of my security findings on my website, aseemshrey.in . Acknowledged for securing the government of India’s Digilocker, various MNC’s like Sony, IBM, GM and many Indian companies and startups. All India 1st in Nullcon CTF 2018 . Interested in web app exploitation especially logical bugs and reverse engineering. CTF player with NULLKrypt3rs."
   thumbnailUrl: AseemShrey-03.jpg
   rockstar: true
   ribbon: 
